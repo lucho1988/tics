@@ -29,32 +29,8 @@ Soporte de extensiones: incluye algunas por defecto.
 ## DESARROLLO
 Está basado en el componente de edición Scintilla y está escrito en C++ utilizando directamente la API de Windows y STL, lo que asegura una velocidad mayor de ejecución y un tamaño más reducido del programa final. Probablemente haya sido desarrollado por Alan Aragon, conocido como el Señor del Notepad
 
-LENGUAJES RECONOCIDOS POR NOTEPAD++
+## LENGUAJES RECONOCIDOS POR NOTEPAD++
 
 Los lenguajes, estándares, tipos de fichero o entornos reconocidos por Notepad++ de forma nativa satisfacen las exigencias de prácticamente todos los programadores e incluyen, de forma aproximada, los siguientes:
 
-Por la A y B:ActionScript, ADA, asp, Assembly, autoIt, bash, Batch
-
-Por la C y D:C, C++, C#, Caml, CmakeFile, Cobol, CSS, D, DIFF
-
-Por la F y G:Flash ActionScript, Fortran, Gui4CLI
-
-Por la H e I:Haskell, HTML, ini file, InnoSetup
-
-Por la J y K:Java, Javascript, JSP, KiXtart
-
-Por la L y M:LISP, Lua, Makefile, Matlab
-
-Por la N y O:NSIS, Objective-C
-
-Por la P:PHP, Pascal, Perl, php, PowerShell, Postscript, Properties file, Python
-
-Por la R y S:R, RC, Ruby, Scheme, Shell, Smalltalk, SQL
-
-Por la T:TCL, TeX
-
-Por la V:Visual Basic / Visual Basic Script, Verilog, VHDL
-
-Por la X e Y:XML, YAML
-
- 
+ActionScript, ADA, asp, Assembly, autoIt, bash, Batch, C, C++, C#, Caml, CmakeFile, Cobol, CSS, D, DIFF, Flash ActionScript, Fortran, Gui4CLI, Haskell, HTML, ini file, InnoSetup, Java, Javascript, JSP, KiXtart, LISP, Lua, Makefile, Matlab, NSIS, Objective-C, PHP, Pascal, Perl, php, PowerShell, Postscript, Properties file, Python, R, RC, Ruby, Scheme, Shell, Smalltalk, SQL, TCL, TeX, Visual Basic / Visual Basic Script, Verilog, VHDL, XML, YAML
