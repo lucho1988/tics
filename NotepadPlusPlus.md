@@ -81,3 +81,11 @@ OTRAS VENTAJAS DE NOTEPAD++
 - Permite abrir múltiples archivos simultáneamente, y reemplazar un texto en todos los archivos abiertos a la vez si así lo deseamos.
 - Permite abrir dos archivos y realizar una comparación línea a línea entre ellos, indicándonos en qué líneas existen diferencias entre un archivo y otro.
 
+DESVENTAJAS:
+
+* Duerme totalmente la conexión a Internet mientras estas descargando lago no importa si esta descargando al mínimo que pueda darse pero décimo la conexión de todos modos nose porque la versión regula disminuye la velocidad de descarga abres una paj.web o mientras descargas archivo de la paj.
+
+* No sirve para hacer grandes éxitos de textos .
+* No tiene tantas funcionalidades en ese aspecto.
+
+
