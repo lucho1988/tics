@@ -2,14 +2,25 @@ Presentación del producto Notepad++
 ===================================
 
 ## HISTORIA
-Bloc de Notas o Notepad es el menor de la familia Office, fue adoptado ya que a Bill Gates se le ocurrió ponerlo fuera del programa Office, entonces a Word Padre se le ocurrió adoptarlo.
+Notepad ++ fue desarrollado por Don Ho en septiembre de 2003.  El desarrollador usó JEXT (un editor de texto basado en Java ) en su compañía pero, descontento con su bajo rendimiento, comenzó a desarrollar un editor de texto escrito en C ++ con Scintilla .  Lo desarrolló en su tiempo libre desde que la empresa rechazó la idea. Notepad ++ se construyó como una aplicación de Microsoft Windows; el  autor consideró, pero rechazó, usar wxWidgets para conectarlo a las plataformas Mac OS X y Unix .
 
-Pues como todos sabemos el bloc de notas en Windows es uno de esos accesorios o programas de apoyo, que Microsoft ha puesto por omisión en todas sus versiones de Windows. Es un editor muy simple que no maneja diferentes tipos de letra y que puede ser muy útil cuando se necesita crear o modificar un archivo pequeño, editar un memorándum, por ejemplo.
+Notepad ++ se lanzó por primera vez en SourceForge el 25 de noviembre de 2003, como una aplicación solo para Windows. Se basa en el componente editor de Scintilla y está escrito en C ++ con solo llamadas de API de Win32 utilizando solo el STL para aumentar el rendimiento y reducir el tamaño del programa. 
+
+En enero de 2010, el gobierno de los EE. UU. Obligó a los anfitriones del proyecto de código abierto con sede en los EE. UU. A denegar el acceso de Cuba, Irán, Corea del Norte, Sudán y Siria al cumplimiento de la legislación estadounidense. Como respuesta a lo 
+que el desarrollador consideró una violación de la filosofía del software libre y de código abierto (FOSS), en junio de 2010, Notepad ++ se retiró de la jurisdicción territorial de Estados Unidos al lanzar una versión en TuxFamily, en Francia. Algunos servicios comunitarios de Notepad ++ (como los foros y el rastreador de errores) permanecieron en Sourceforge hasta 2015 cuando Notepad ++ abandonó Sourceforge por completo. 
+
+En 2011, Lifehacker describió Notepad ++ como "El mejor editor de texto de programación para Windows", afirmando que "si prefiere un editor de texto plano sencillo, liviano y extensible, nuestra primera opción es el Notepad ++ gratuito y de código abierto". Lifehacker criticó su interfaz de usuario , afirmando que "es, de hecho, bastante feo. Afortunadamente puede hacer mucho para personalizar su aspecto, y lo que le falta en pulimento, lo compensa en funcionalidad". 
+
+En 2014, los lectores de Lifehacker votaron a Notepad ++ como el "Editor de texto más popular", con el 40% de los 16.294 encuestados que lo definieron como su editor más querido. El equipo de Lifehacker resumió el programa como "rápido, flexible, lleno de funciones y completamente gratis". 
+
+En 2015, Stack Overflow realizó una Encuesta mundial para desarrolladores, y Notepad ++ fue votado como el editor de texto más utilizado en todo el mundo, con el 34,7% de los 26,086 encuestados que afirman utilizarlo a diario.  Stack Overflow observó que "cuanto 
+más cambian las cosas, más probable es que esas cosas estén escritas en JavaScript con NotePad ++ en una máquina con Windows". La encuesta de 2016 tenía NotePad ++ al 35.6%. 
+
 
 ## NOTEPAD++
-Fue lanzado por primera vez el 24 de noviembre de 2003.
 
-Es un programa para editar código fuente de cualquier lenguaje de programación. Como tiene soporte para una gran cantidad de lenguajes, interesará no sólo a los desarrolladores de webs, sino en general a toda la comunidad de programadores.
+Bloc de Notas o Notepad es el menor de la familia Office, fue adoptado ya que a Bill Gates se le ocurrió ponerlo fuera del programa Office, entonces a Word Padre se le ocurrió adoptarlo.
+Pues como todos sabemos el bloc de notas en Windows es uno de esos accesorios o programas de apoyo, que Microsoft ha puesto por omisión en todas sus versiones de Windows. Es un programa para editar código fuente de cualquier lenguaje de programación. Como tiene soporte para una gran cantidad de lenguajes, interesará no sólo a los desarrolladores de webs, sino en general a toda la comunidad de programadores.
 
 Es de estos editores que ofrecen ayudas muy útiles para "tirar líneas de código", como resaltado de colores, posibilidad de editar varios documentos a la vez, menús contextuales, auto-completar código, etc. Todo un regalo para los programadores, ya que además es gratuito.
 
