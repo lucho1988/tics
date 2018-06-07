@@ -59,3 +59,25 @@ Está basado en el componente de edición Scintilla y está escrito en C++ utili
 Los lenguajes, estándares, tipos de fichero o entornos reconocidos por Notepad++ de forma nativa satisfacen las exigencias de prácticamente todos los programadores e incluyen, de forma aproximada, los siguientes:
 
 ActionScript, ADA, asp, Assembly, autoIt, bash, Batch, C, C++, C#, Caml, CmakeFile, Cobol, CSS, D, DIFF, Flash ActionScript, Fortran, Gui4CLI, Haskell, HTML, ini file, InnoSetup, Java, Javascript, JSP, KiXtart, LISP, Lua, Makefile, Matlab, NSIS, Objective-C, PHP, Pascal, Perl, php, PowerShell, Postscript, Properties file, Python, R, RC, Ruby, Scheme, Shell, Smalltalk, SQL, TCL, TeX, Visual Basic / Visual Basic Script, Verilog, VHDL, XML, YAML
+LA POTENCIALIDAD DE NOTEPAD++
+Vamos a citar algunas características interesantes de Notepad++:
+·Identifica los lenguajes de programación más habituales y gracias a ello ofrece una presentación ordenada y clara del código
+En este caso el archivo no incluye saltos de línea con lo que el bloc de notas nos está mostrando un montón de texto desperdigado. En cambio, Notepad++ ha identificado el lenguaje de programación y nos muestra las diferentes sentencias o etiquetas en líneas bien diferenciadas. Además, nos indica cada tipo de elemento de un color. En este caso, vemos como las propiedades nos las muestra en rojo, los valores de las propiedades en violeta, las etiquetas en azul, etc.
+  
+·Permite abrir prácticamente todo: archivos con cualquier extensión, e incluso sin extensión. Si Notepad++ no lo abre es que el archivo está corrupto o no es editable.
+·Permite abrir prácticamente todo: archivos con cualquier extensión, e incluso sin extensión. Si Notepad++ no lo abre es que el archivo está corrupto o no es editable.
+·Nos indica los números de línea. Muchas veces los mensajes de error con que nos encontramos los que trabajamos en programación son del tipo: “Warning: mysql_select_db(): 2 is not a valid MySQL-Link resource in /home/jukebox/public_html/admin/index.php on line 125”. Notepad++ nos permite localizar y editar con rapidez la línea aludida.
+·Nos permite trabajar con múltiples archivos abiertos en diferentes pestañas pero en una sola ventana.
+En la imagen vemos cómo mantenemos abiertos diferentes archivos (header.php, about.html, about-france.html, passwd) entre los que podemos saltar fácilmente.
+ 
+·Reconoce las etiquetas y nos marca el principio, fin y elementos singulares de las mismas cuando nos posicionamos con el cursor encima de ellas. En Html, Php, etc. resulta muy útil localizar visualmente dónde comienza y dónde termina una etiqueta. Esto es muy fácil con Notepad++.
+·Permite todas las funcionalidades habituales en Windows: copiar y pegar, zoom con iconos, efecto zoom usando CTRL+rueda del ratón, buscar, reemplazar, posibilidad de deshacer, mostrar caracteres ocultos (como saltos de línea…).
+·Existen muchas más posibilidades y funcionalidades… y están en continuo crecimiento.
+ 
+OTRAS VENTAJAS DE NOTEPAD++
+ Quizás te preguntes por qué hemos elegido Notepad++ para este curso. La respuesta es que tiene diversas ventajas, por ejemplo:
+- Consume pocos recursos del sistema. No sobrecargarás tu ordenador porque el programa es al mismo tiempo que potente, ligero.
+- Dispone de la función autocompletar que ya hemos citado, que nos facilita ayuda mientras estamos escribiendo el código.
+- Permite abrir múltiples archivos simultáneamente, y reemplazar un texto en todos los archivos abiertos a la vez si así lo deseamos.
+- Permite abrir dos archivos y realizar una comparación línea a línea entre ellos, indicándonos en qué líneas existen diferencias entre un archivo y otro.
+
