@@ -59,6 +59,7 @@ Está basado en el componente de edición Scintilla y está escrito en C++ utili
 Los lenguajes, estándares, tipos de fichero o entornos reconocidos por Notepad++ de forma nativa satisfacen las exigencias de prácticamente todos los programadores e incluyen, de forma aproximada, los siguientes:
 
 ActionScript, ADA, asp, Assembly, autoIt, bash, Batch, C, C++, C#, Caml, CmakeFile, Cobol, CSS, D, DIFF, Flash ActionScript, Fortran, Gui4CLI, Haskell, HTML, ini file, InnoSetup, Java, Javascript, JSP, KiXtart, LISP, Lua, Makefile, Matlab, NSIS, Objective-C, PHP, Pascal, Perl, php, PowerShell, Postscript, Properties file, Python, R, RC, Ruby, Scheme, Shell, Smalltalk, SQL, TCL, TeX, Visual Basic / Visual Basic Script, Verilog, VHDL, XML, YAML
+
 LA POTENCIALIDAD DE NOTEPAD++
 Vamos a citar algunas características interesantes de Notepad++:
 ·Identifica los lenguajes de programación más habituales y gracias a ello ofrece una presentación ordenada y clara del código
