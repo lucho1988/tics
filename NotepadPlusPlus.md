@@ -74,4 +74,8 @@ Quizás te preguntes por qué hemos elegido Notepad++ para este curso. La respue
 * No sirve para hacer grandes éxitos de textos .
 * No tiene tantas funcionalidades en ese aspecto.
 
+contravenciones 
+
+En marzo del 2008, el banner del "Boycott Beijing 2008" fue colocado en la página web SourceForge.net de Notepad++.4 Unos meses más tarde, la mayoría de los usuarios en China no pudieron llegar a la página web de SourceForge.net alrededor de un mes (26 de junio, 2008 - 24 de julio de 2008). Esto condujo a la creencia generalizada de que China había bloqueado SourceForge.net en venganza por el banner del Boicot. 
+En enero de 2015, la página web de Notepad++ fue hackeada por crackers islamistas en protesta de una edición lanzada con el nombre de Je suis Charlie
 
