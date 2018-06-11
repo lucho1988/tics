@@ -65,7 +65,18 @@ Quizás te preguntes por qué hemos elegido Notepad++ para este curso. La respue
 4. Permite abrir dos archivos y realizar una comparación línea a línea entre ellos, indicándonos en qué líneas existen diferencias entre un archivo y otro.
 
 ## EN RESUMEN
-
 Ya podemos decir que el Notepad++ es mucho más que un Bloc de notas potenciado. 
 Este editor de texto de calidad puede ser de gran ayuda, no solamente cuando estamos desarrollando software, si no cuando extraemos algún tipo de código de otro lado y necesitamos darle cierto orden o organizar el código, para esos momentos siempre Notepad++ será un gran aliado, el cual definitivamente no debería hacer falta en ningún ordenador que sea utilizado para el desarrollo y la programación. 
 
+## COMPETIDORES EN EL MERCADO
+Si bien hay una innumerable cantidad de articulos web y blogs donde se compara este editor de texto con otros, lo primero que se debe diferenciar es que el Notepad++ es un editor de texto y no un Framework, no es un entorno de programacion.
+
+Siendo fiel a sus origenes, se destaca por tener grandes capacidades y utilidades para el manejo de texto y como agregado, reconoce nativamente muchos de los lenguajes de programacion mas usados.
+
+Esto lo hace sumamente atractivo para desarrolladores que deben realizar programas o modificaciones en diversos lenguajes, permitiendoles utilizar un unico programa de edicion.
+
+Al no ser un Framework, le faltan muchas de las utilidades en las que son fuertes estos productos, pero que a su vez, requieren caracteristicas fisicas de las computadoras donde corren muy elevadas, ocupan mucho espacio en disco y memoria y, en algunos casos son licenciados.
+
+Por dar un par de ejemplos, el instalador de Brackets tiene un tamano de 105MB, el Eclipse basico unos 45MB, el CodeBlocks 36MB, el Geany unos 15MB y el Notepad++ tan solo 4,5MB.
+
+Esta es la gran diferencia, el Notepad++ en un procesador de texto con muchas herramientas y posibilidades de agregar plugins o desarrollar uno especifico para lo que necesitemos, no es una GUI de desarrollo.
