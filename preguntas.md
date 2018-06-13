@@ -7,3 +7,9 @@ GRUPO Nro:_______________________                         Notepad++
 * Es ___ que el Notepad++ reconoce la sintaxis de COBOL en forma nativa 
 * Es ___ que el Notepad++ tiene sus origenes en el Block de Notas de Windows
 * Es ___ que el Notepad++ solo compila codigo para arquitecturas de 32bit 
+
+2. Notepad plus plus tiene como caractetistica _____________las expresiones de sintaxis de los lenguajes reconocidos.
+* Colocar en parentesis
+* Resaltar
+* Poner en comillas
+* Autocompletar
