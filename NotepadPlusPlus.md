@@ -6,6 +6,9 @@ Notepad++ fue desarrollado por Don Ho en septiembre de 2003.  El desarrollador u
 
 Notepad++ se lanzó por primera vez en SourceForge el 25 de noviembre de 2003, como una aplicación solo para Windows. Se basa en el componente editor de Scintilla y está escrito en C++ con solo llamadas de API de Win32 utilizando solo el STL para aumentar el rendimiento y reducir el tamaño del programa. 
 
+En marzo del 2008, el banner del "Boycott Beijing 2008" fue colocado en la página web SourceForge.net de Notepad++.4 Unos meses más tarde, la mayoría de los usuarios en China no pudieron llegar a la página web de SourceForge.net alrededor de un mes (26 de junio, 2008 - 24 de julio de 2008). Esto condujo a la creencia generalizada de que China había bloqueado SourceForge.net en venganza por el banner del Boicot. 
+En enero de 2015, la página web de Notepad++ fue hackeada por crackers islamistas en protesta de una edición lanzada con el nombre de Je suis Charlie
+
 En enero de 2010, el gobierno de los EE. UU. Obligó a los anfitriones del proyecto de código abierto con sede en los EE. UU. A denegar el acceso de Cuba, Irán, Corea del Norte, Sudán y Siria al cumplimiento de la legislación estadounidense. Como respuesta a lo que el desarrollador consideró una violación de la filosofía del software libre y de código abierto (FOSS), en junio de 2010, Notepad++ se retiró de la jurisdicción territorial de Estados Unidos al lanzar una versión en TuxFamily, en Francia. Algunos servicios comunitarios de Notepad++ (como los foros y el rastreador de errores) permanecieron en Sourceforge hasta 2015 cuando Notepad++ abandonó Sourceforge por completo. 
 
 En 2011, Lifehacker describió Notepad++ como "El mejor editor de texto de programación para Windows", afirmando que "si prefiere un editor de texto plano sencillo, liviano y extensible, nuestra primera opción es el Notepad++ gratuito y de código abierto". Lifehacker criticó su interfaz de usuario, afirmando que "es, de hecho, bastante feo. Afortunadamente puede hacer mucho para personalizar su aspecto, y lo que le falta en pulimento, lo compensa en funcionalidad". 
@@ -14,10 +17,8 @@ En 2014, los lectores de Lifehacker votaron a Notepad++ como el "Editor de texto
 
 En 2015, Stack Overflow realizó una Encuesta mundial para desarrolladores, y Notepad++ fue votado como el editor de texto más utilizado en todo el mundo, con el 34,7% de los 26,086 encuestados que afirman utilizarlo a diario.  Stack Overflow observó que "cuanto más cambian las cosas, más probable es que esas cosas estén escritas en JavaScript con NotePad++ en una máquina con Windows". La encuesta de 2016 tenía NotePad++ al 35.6%. 
 
-## CONTROVERSIAS
 
-En marzo del 2008, el banner del "Boycott Beijing 2008" fue colocado en la página web SourceForge.net de Notepad++.4 Unos meses más tarde, la mayoría de los usuarios en China no pudieron llegar a la página web de SourceForge.net alrededor de un mes (26 de junio, 2008 - 24 de julio de 2008). Esto condujo a la creencia generalizada de que China había bloqueado SourceForge.net en venganza por el banner del Boicot. 
-En enero de 2015, la página web de Notepad++ fue hackeada por crackers islamistas en protesta de una edición lanzada con el nombre de Je suis Charlie
+
 
 ## NOTEPAD++(también conocido como Notepad Plus Plus)
 Es uno de tantos editores que ofrecen ayudas muy útiles para "tirar líneas de código", como resaltado de colores, posibilidad de editar varios documentos a la vez, menús contextuales, auto-completar código, etc. Todo un regalo para los programadores, ya que además es gratuito.
