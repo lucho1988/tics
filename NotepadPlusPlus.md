@@ -18,8 +18,6 @@ En 2014, los lectores de Lifehacker votaron a Notepad++ como el "Editor de texto
 En 2015, Stack Overflow realizó una Encuesta mundial para desarrolladores, y Notepad++ fue votado como el editor de texto más utilizado en todo el mundo, con el 34,7% de los 26,086 encuestados que afirman utilizarlo a diario.  Stack Overflow observó que "cuanto más cambian las cosas, más probable es que esas cosas estén escritas en JavaScript con NotePad++ en una máquina con Windows". La encuesta de 2016 tenía NotePad++ al 35.6%. 
 
 
-
-
 ## NOTEPAD++(también conocido como Notepad Plus Plus)
 Es uno de tantos editores que ofrecen ayudas muy útiles para "tirar líneas de código", como resaltado de colores, posibilidad de editar varios documentos a la vez, menús contextuales, auto-completar código, etc. Todo un regalo para los programadores, ya que además es gratuito.
 
@@ -63,11 +61,7 @@ Quizás te preguntes por qué hemos elegido Notepad++ para este curso. La respue
 1. Consume pocos recursos del sistema. No sobrecarga el ordenador porque el programa es al mismo tiempo que potente, ligero.
 2. Dispone de la función autocompletar, que facilita y ayuda mientras el desarrollador tipea el codigo.
 3. Permite abrir múltiples archivos simultáneamente, y reemplazar un texto en todos los archivos abiertos a la vez si así se desea.
-4. Permite abrir dos archivos y realizar una comparación línea a línea entre ellos, indicándonos en qué líneas existen diferencias entre un archivo y otro.
-
-## EN RESUMEN
-Ya podemos decir que el Notepad++ es mucho más que un Bloc de notas potenciado. 
-Este editor de texto de calidad puede ser de gran ayuda, no solamente cuando estamos desarrollando software, si no cuando extraemos algún tipo de código de otro lado y necesitamos darle cierto orden o organizar el código, para esos momentos siempre Notepad++ será un gran aliado, el cual definitivamente no debería hacer falta en ningún ordenador que sea utilizado para el desarrollo y la programación. 
+4. Permite abrir dos archivos y realizar una comparación línea a línea entre ellos, indicándonos en qué líneas existen diferencias entre un archivo y otro. 
 
 ## COMPETIDORES EN EL MERCADO
 Si bien hay una innumerable cantidad de articulos web y blogs donde se compara este editor de texto con otros, lo primero que se debe diferenciar es que el Notepad++ es un editor de texto y no un Framework, no es un entorno de programacion.
@@ -79,5 +73,9 @@ Esto lo hace sumamente atractivo para desarrolladores que deben realizar program
 Al no ser un Framework, le faltan muchas de las utilidades en las que son fuertes estos productos, pero que a su vez, requieren caracteristicas fisicas de las computadoras donde corren muy elevadas, ocupan mucho espacio en disco y memoria y, en algunos casos son licenciados.
 
 Por dar un par de ejemplos, el instalador de Brackets tiene un tamano de 105MB, el Eclipse basico unos 45MB, el CodeBlocks 36MB, el Geany unos 15MB y el Notepad++ tan solo 4,5MB.
+
+## EN RESUMEN
+Ya podemos decir que el Notepad++ es mucho más que un Bloc de notas potenciado. 
+Este editor de texto de calidad puede ser de gran ayuda, no solamente cuando estamos desarrollando software, si no cuando extraemos algún tipo de código de otro lado y necesitamos darle cierto orden o organizar el código, para esos momentos siempre Notepad++ será un gran aliado, el cual definitivamente no debería hacer falta en ningún ordenador que sea utilizado para el desarrollo y la programación.
 
 Esta es la gran diferencia, el Notepad++ en un procesador de texto con muchas herramientas y posibilidades de agregar plugins o desarrollar uno especifico para lo que necesitemos, no es una GUI de desarrollo.
