@@ -13,3 +13,5 @@ GRUPO Nro:_______________________                         Notepad++
 * Resaltar
 * Poner en comillas
 * Autocompletar
+*3 ¿Cuantos  lenguajes, estándares, tipos de fichero o entornos reconocidos por Notepad
+los leguajes  estandares  son 56
